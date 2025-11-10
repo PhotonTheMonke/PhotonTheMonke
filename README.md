@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Roblox Exploting/VR Development
 - 💞️ I’m looking to collaborate on Roblox Studio,Rec Room,Unity, and Scratch
 - 📫 How to reach me Roblox Alt: x2theaccounts
-- 😄 Pronouns: He/They
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know i use Linux, Windows 10, AND Windows 11 (i use Linux and Windows 10 in a VM)
